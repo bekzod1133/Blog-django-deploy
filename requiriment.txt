@@ -1,7 +1,11 @@
 asgiref
 Django
 Pillow
-psycopg
+psycopg2
 python-decouple
 sqlparse
 tzdata
+dj-database-url
+django-eniron
+gunicorn
+whitenoise
