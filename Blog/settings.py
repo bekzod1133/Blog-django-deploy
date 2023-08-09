@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'Blog.wsgi.application'
 
 
 DATABASES = {
-    'default': dj_database_url.config(default=config('DATABASES'))
+    'default': dj_database_url.config()
 }
 
 # Password validation
