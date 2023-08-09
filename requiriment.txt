@@ -6,6 +6,6 @@ python-decouple
 sqlparse
 tzdata
 dj-database-url
-django-eniron
+django-environ
 gunicorn
 whitenoise
